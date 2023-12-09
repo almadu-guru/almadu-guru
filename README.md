@@ -6,13 +6,13 @@
 
 <div id="socials" align="center">
     <a href="https://t.me/s_Veta_na">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Telegram-2f8dc2?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/atropa_belladonna_l/">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Instagram-2f8dc2?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://vk.com/svetllankaa">
-    <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Vk-2f8dc2?style=for-the-badge&logo=vk&logoColor=white" alt="Telegram"/>
   </a>
 </div>
 
@@ -29,18 +29,22 @@
 ---
 
 ### Languages and tools
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-181e1a?style=for-the-badge&logo=html5&logoColor=red) 
+![CSS3](https://img.shields.io/badge/css3-181e1a?style=for-the-badge&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/javascript-181e1a?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vue-181e1a?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Gulp](https://img.shields.io/badge/GULP-181e1a?style=for-the-badge&logo=gulp&logoColor=red)
+![SASS](https://img.shields.io/badge/SASS-181e1a?style=for-the-badge&logo=SASS&logoColor=pink)
+![Webpack](https://img.shields.io/badge/webpack-181e1a?style=for-the-badge&logo=webpack&logoColor=aquamarine)
+![ESLint](https://img.shields.io/badge/ESLint-181e1a?style=for-the-badge&logo=eslint&logoColor=4B32C3)
+![NPM](https://img.shields.io/badge/NPM-181e1a?style=for-the-badge&logo=npm&logoColor=white) 
+![Wordpress](https://img.shields.io/badge/Wordpress-181e1a?style=for-the-badge&logo=wordpress&logoColor=21759B) 
+![Git](https://img.shields.io/badge/git-181e1a?style=for-the-badge&logo=git&logoColor=F05032) 
+![figma](https://img.shields.io/badge/figma-181e1a?style=for-the-badge&logo=figma&logoColor=F24E1E) 
 
-![Tilda](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ 
+
+
 ---
 ### My stat
 <!--
