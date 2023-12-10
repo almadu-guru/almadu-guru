@@ -17,7 +17,7 @@
 </div>
 
 ---
-<img align="right" alt="Me and my cat" src="./img1.jpg" height="300"/> 
+<img align="right" alt="Me and my cat" src="./img1.jpg" height="350"/> 
 
 
 ### About me
