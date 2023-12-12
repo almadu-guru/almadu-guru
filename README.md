@@ -6,18 +6,18 @@
 
 <div id="socials" align="center">
     <a href="https://t.me/s_Veta_na">
-    <img src="https://img.shields.io/badge/Telegram-2f8dc2?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Telegram-2f8dc2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://www.instagram.com/atropa_belladonna_l/">
-    <img src="https://img.shields.io/badge/Instagram-2f8dc2?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter"/>
+  <a href="https://www.instagram.com/svetlana_madu/">
+    <img src="https://img.shields.io/badge/Instagram-2f8dc2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://vk.com/svetllankaa">
-    <img src="https://img.shields.io/badge/Vk-2f8dc2?style=for-the-badge&logo=vk&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Vk-2f8dc2?style=for-the-badge&logo=vk&logoColor=white" alt="Vk"/>
   </a>
 </div>
 
 ---
-<img align="right" alt="Me and my cat" src="./img1.jpg" height="350"/> 
+<img align="right" alt="Me and my cat" src="./img1.jpg" width="400"/> 
 
 
 ### About me
