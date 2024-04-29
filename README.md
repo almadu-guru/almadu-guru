@@ -5,7 +5,7 @@
 </div>
 
 <div id="socials" align="center">
-    <a href="https://t.me/s_Veta_na">
+    <a href="https://t.me/alma_du">
     <img src="https://img.shields.io/badge/Telegram-2f8dc2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://www.instagram.com/svetlana_madu/">
